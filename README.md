@@ -6,18 +6,37 @@ Tengo experiencia práctica en entornos productivos: durante mis prácticas en S
 
 ---
 
-### Toolkit
+### Lenguajes
 
-```python
-stack = {
-    "Lenguajes":      ["Python", "SQL", "R", "JavaScript"],
-    "ML / Data Sci":  ["scikit-learn", "TensorFlow/Keras", "pandas", "NumPy", "EDA", "CRISP-DM", "KDD"],
-    "Visualización":  ["Power BI", "matplotlib", "seaborn", "Tableau"],
-    "Cloud":          ["GCP · Vertex AI", "Firebase", "AWS (fundamentos)"],
-    "Herramientas":   ["Git", "n8n", "Google Apps Script", "Node.js", "Postman"],
-    "Metodologías":   ["Scrum", "Design Thinking"],
-}
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+### Datos & Machine Learning
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### Visualización
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat)
+![seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=flat)
+
+### Cloud & Herramientas
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ---
 
